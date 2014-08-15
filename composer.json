@@ -35,9 +35,7 @@
 		"kinglozzer/htmleditornoalignment": "dev-master",
 		"webbuilders-group/silverstripe-cmspreviewpreference": "dev-master",
 		"silverstripe/selectupload": "*",
-		"rywa/silverstripe-foundation": "~1.0",
-		"rywa/silverstripe-foundation-forms": "dev-master",
-		"rywa/silverstripe-foundation-interchange": "dev-master"
+		"colymba/gridfield-bulk-editing-tools": "dev-master"
 	},
 	"config": {
 		"process-timeout": 900
